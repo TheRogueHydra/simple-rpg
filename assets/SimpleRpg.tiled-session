@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "DungeonProps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "DungeonTiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 3.04,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 227.796052631579,
+                "y": 263.32236842105266
+            }
+        }
+    },
+    "last.imagePath": "D:/Maheshan/Programming/Gamedev/LibGDX/SimpleRPG/assets",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "DungeonProps.tsx",
+        "DungeonTiles.tsx",
+        "test.tmx"
+    ],
+    "project": "SimpleRpg.tiled-project",
+    "recentFiles": [
+        "DungeonProps.tsx",
+        "DungeonTiles.tsx",
+        "test.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
